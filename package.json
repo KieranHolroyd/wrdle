@@ -1,0 +1,22 @@
+{
+  "name": "wrdle",
+  "version": "0.0.1",
+  "description": "(reserving the npm package name until playable) A CLI game like wordle, recommended usage while running a long compilation to keep those gears turning.",
+  "scripts": {},
+  "keywords": [
+    "wordle",
+    "wordle cli",
+    "brain teaser",
+    "cli game"
+  ],
+  "author": "Kieran Holroyd (me@kieran.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "treeify": "^1.1.0",
+    "yargs": "^17.3.1"
+  }
+}
